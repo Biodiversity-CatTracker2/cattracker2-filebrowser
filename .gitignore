@@ -1,0 +1,5 @@
+data/
+filebrowser.db
+nohup.out
+nginx.conf
+.DS_Store
